@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Famous Movies</string>
+
+    <string name="popular_movies">Popular\nMovies</string>
+    <string name="top_rated_movies">Top Rated\nMovies</string>
+    <string name="upcoming_movies">Upcoming\nMovies</string>
+
+    <string name="error_recovering_data">Error recovering data</string>
+
+    <string name="details">Movie Details</string>
+    <string name="average_rating">"Average Rating: "</string>
+    <string name="release_date">"Release date: "</string>
+    <string name="poster_image">Poster image</string>
+
+</resources>
